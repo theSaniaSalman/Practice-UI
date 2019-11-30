@@ -1,0 +1,40 @@
+.all{
+background-color: lavender;
+}
+.s{
+background-color: #D3D3D3;
+padding-top:20px
+}
+.j{
+font-family: Bodoni MT Black;
+color: grey;
+font-size:20px;
+}
+.testimonial{
+color: blue;
+font-size: 20px;
+line-height:25pt;
+}
+.line{
+line-height:20pt;
+}
+.baby{
+line-height:0pt;
+}
+.copyright{
+background-color: #E0EEEE; 
+font-size:12px;
+color: #5F9F9F;
+line-height: 10px;
+margin-top:0px;
+}
+i{
+color: red;
+}
+h2{
+color: blue;
+font-family: Verdana;
+}
+.else{
+background-color: white;
+}
